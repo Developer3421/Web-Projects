@@ -65,6 +65,30 @@ Chess & Translate kombiniert ein vollständiges Schachspiel mit einem integriert
 
 ---
 
+## 🔑 Password Generator
+
+**Sicherer und anpassbarer Passwort-Generator im Browser**
+
+Password Generator ist eine schlanke Web-Anwendung zur Erstellung starker, zufälliger Passwörter direkt im Browser. Der Nutzer kann Länge, Zeichensatz (Großbuchstaben, Kleinbuchstaben, Ziffern, Sonderzeichen) und weitere Parameter individuell konfigurieren und das generierte Passwort mit einem Klick kopieren.
+
+### Kernfunktionen
+
+* Einstellbare Passwortlänge und Zeichenkategorien
+* Sofortige Stärke-Bewertung des generierten Passworts
+* Ein-Klick-Kopieren in die Zwischenablage
+* Vollständig clientseitig – keine Daten verlassen den Browser
+* Responsive Design für Desktop und Mobile
+
+### Technologie-Stack
+
+* React 19 + TypeScript
+* Vite
+* Tailwind CSS + shadcn/ui
+
+🔗 **Web-App:** [https://password-generator--Developer3421.github.app](https://password-generator--Developer3421.github.app)
+
+---
+
 ## Ziel dieses Repositories
 
 Dieses Repository dient als **praktisches Übungsfeld für produktionsnahe Web-Entwicklung**.
